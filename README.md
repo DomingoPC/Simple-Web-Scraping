@@ -21,3 +21,6 @@ Some key challenges in this project included:
   - Some stars with a table structure are missing the "Optimum Visibility" months. In these cases, the script checks for the presence of this section before extracting data.  
 
 This project provides a practical example of web scraping and may be useful for similar data collection tasks. 🚀  
+
+The result as an Excel table is:
+![excel](www/excel-result-table.png)
